@@ -6,10 +6,19 @@
     <description>Recent content on Danyang Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2020 11:13:38 +0800</lastBuildDate>
     
 	<atom:link href="https://danyangjiang-owo.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Biography</title>
+      <link>https://danyangjiang-owo.github.io/biography/</link>
+      <pubDate>Sun, 26 Jan 2020 11:13:38 +0800</pubDate>
+      
+      <guid>https://danyangjiang-owo.github.io/biography/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Projects</title>
@@ -46,15 +55,6 @@
       <guid>https://danyangjiang-owo.github.io/welcome/</guid>
       <description>Welcome to Danyang Jiang&#39;s homepage! This site is mainly for recording the academic progress of Danyang Jiang. Some hobbies are also mentioned in the more module.
 If you have any ideas to discuss, please feel free to contact me! (o&#39;ω&#39;o)</description>
-    </item>
-    
-    <item>
-      <title>Biography</title>
-      <link>https://danyangjiang-owo.github.io/biography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://danyangjiang-owo.github.io/biography/</guid>
-      <description></description>
     </item>
     
   </channel>

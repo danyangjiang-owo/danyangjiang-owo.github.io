@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://danyangjiang-owo.github.io/biography/</loc>
+    <lastmod>2020-01-26T11:13:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danyangjiang-owo.github.io/</loc>
+    <lastmod>2020-01-26T11:13:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danyangjiang-owo.github.io/post/</loc>
+    <lastmod>2020-01-26T11:13:38+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://danyangjiang-owo.github.io/archives/2020/01/</loc>
     <lastmod>2020-01-24T00:00:00+00:00</lastmod>
   </url>
@@ -14,16 +29,6 @@
   
   <url>
     <loc>https://danyangjiang-owo.github.io/archives/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danyangjiang-owo.github.io/</loc>
-    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danyangjiang-owo.github.io/post/</loc>
     <lastmod>2020-01-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -55,10 +60,6 @@
   <url>
     <loc>https://danyangjiang-owo.github.io/welcome/</loc>
     <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danyangjiang-owo.github.io/biography/</loc>
   </url>
   
   <url>
